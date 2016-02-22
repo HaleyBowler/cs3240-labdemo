@@ -1,1 +1,1 @@
-# cs3240-labdemo changed from local machine
+# cs3240-labdemo conflict resolved
